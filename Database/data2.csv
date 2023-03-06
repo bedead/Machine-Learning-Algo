@@ -1,0 +1,12 @@
+ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Type
+1,Breaking Bad,2008,18+,9.4/10,100/100,1,0,0,0,1
+2,Stranger Things,2016,16+,8.7/10,96/100,1,0,0,0,1
+3,Attack on Titan,2013,18+,9.0/10,95/100,1,1,0,0,1
+4,Better Call Saul,2015,18+,8.8/10,94/100,1,0,0,0,1
+5,Dark,2017,16+,8.8/10,93/100,1,0,0,0,1
+6,Avatar: The Last Airbender,2005,7+,9.3/10,93/100,1,0,1,0,1
+7,Peaky Blinders,2013,18+,8.8/10,93/100,1,0,0,0,1
+8,The Walking Dead,2010,18+,8.2/10,93/100,1,0,0,0,1
+9,Black Mirror,2011,18+,8.8/10,92/100,1,0,0,0,1
+10,The Queen's Gambit,2020,18+,8.6/10,92/100,1,0,0,0,1
+11,Mindhunter,2017,18+,8.6/10,90/100,1,0,0,0,1
